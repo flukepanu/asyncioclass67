@@ -20,3 +20,4 @@ async def main():
             await f.write('\n'.join(moves))
 
 asyncio.run(main())
+ 
